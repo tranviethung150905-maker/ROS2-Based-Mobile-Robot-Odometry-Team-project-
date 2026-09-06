@@ -15,6 +15,10 @@ ROS2 mobile robot odometry using wheel encoder and optical flow sensor fusion fo
 - Raspberry Pi
 - MATLAB
 
+## Team Members
+- Tran Viet Hung
+- Nguyen Quoc An
+
 ## My Contribution
 
 - Set up initial ROS2 node network using publisher/subscriber communication for robot control and sensor processing.
